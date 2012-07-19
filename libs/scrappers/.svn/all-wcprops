@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/web-app/!svn/ver/2/trunk/libs/scrappers
+END
+bbc.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/web-app/!svn/ver/2/trunk/libs/scrappers/bbc.php
+END
+gumtree.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/web-app/!svn/ver/2/trunk/libs/scrappers/gumtree.php
+END
+groupon.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/web-app/!svn/ver/2/trunk/libs/scrappers/groupon.php
+END
+scrappers.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/web-app/!svn/ver/2/trunk/libs/scrappers/scrappers.php
+END

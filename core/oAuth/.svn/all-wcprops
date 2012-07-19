@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/web-app/!svn/ver/2/trunk/core/oAuth
+END
+Facebook_oAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/web-app/!svn/ver/2/trunk/core/oAuth/Facebook_oAuth.php
+END
+OAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/web-app/!svn/ver/2/trunk/core/oAuth/OAuth.php
+END
+oAuth_Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/web-app/!svn/ver/2/trunk/core/oAuth/oAuth_Interface.php
+END
+twitter_oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/web-app/!svn/ver/2/trunk/core/oAuth/twitter_oauth.php
+END

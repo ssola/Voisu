@@ -1,0 +1,86 @@
+body {
+	background: #eee;
+}
+
+div.topNav {
+	background:#FFFFCC !important;
+	padding:30px;
+	color:#222;
+	margin-bottom:10px;
+}
+
+div.container {
+	margin-top:10px;
+}
+
+div#header {
+	height:90px;
+	margin-bottom:20px;
+}
+	
+	div#header div#logoSide {
+		width:30%;
+		float:left;
+	}
+
+	div#header div#rightSide {
+		float:left;
+		margin-left:10px;
+	}
+
+div#bodyContent {
+	background:#FFFFFF;
+	/* round corners to the header div */
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;	
+}
+
+	div#bodyContent {
+		padding:30px;
+	}
+
+		div#bodyContent h2 {
+			color:#464545;
+			font-size:40px;
+			text-align:center;
+		}
+
+		div#bodyContent h3 {
+			color:#7f7f7f;
+			text-align:center;
+		}
+
+		div#bodyContent p {
+			margin-top:10px;
+			color:#7f7f7f;
+		}
+
+		div#titleContent blockquote {
+			color:#7f7f7f;
+		}
+
+		div#titleContent button {
+			width:49%;
+		}
+
+	div#otherThings {
+		background:#2e2e2e;
+		padding:30px;
+		color:#FFFFFF;
+		/* round corners to the header div */
+		-webkit-border-bottom-left-radius: 10px;
+		-webkit-border-bottom-right-radius: 10px;
+		-moz-border-radius-bottomleft: 10px;
+		-moz-border-radius-bottomright: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;	
+	}
+
+	div#footer {
+		padding:30px;
+		color:#7f7f7f;
+	}

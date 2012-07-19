@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter
+END
+Pluralize.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Pluralize.php
+END
+Strlen.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Strlen.php
+END
+Isarray.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Isarray.php
+END
+Capfirst.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Capfirst.php
+END
+Reverse.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Reverse.php
+END
+Trim.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Trim.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Date.php
+END
+Hostname.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Hostname.php
+END
+Safe.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Safe.php
+END
+Exists.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Exists.php
+END
+Stringformat.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Stringformat.php
+END
+Urlencode.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Urlencode.php
+END
+Length.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Length.php
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Title.php
+END
+Substr.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Substr.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Default.php
+END
+Trans.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Trans.php
+END
+Lower.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Lower.php
+END
+Count.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Count.php
+END
+Dictsort.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Dictsort.php
+END
+Cut.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Cut.php
+END
+Upper.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Upper.php
+END
+Intval.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Intval.php
+END
+Empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Empty.php
+END
+Translation.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Translation.php
+END
+Join.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Join.php
+END
+Escape.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Escape.php
+END
+Truncatewords.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/web-app/!svn/ver/2/trunk/core/Haanga/Extension/Filter/Truncatewords.php
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend
+END
+Xcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/Xcache.php
+END
+Libmemcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/Libmemcached.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/File.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/Test.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/Interface.php
+END
+ExtendedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/ExtendedInterface.php
+END
+Sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/Sqlite.php
+END
+Apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/Apc.php
+END
+BlackHole.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/BlackHole.php
+END
+TwoLevels.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/TwoLevels.php
+END
+ZendPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/ZendPlatform.php
+END
+Memcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/Memcached.php
+END
+Static.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/Static.php
+END
+ZendServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend/ZendServer.php
+END

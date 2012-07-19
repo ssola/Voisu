@@ -1,0 +1,296 @@
+<pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 999.00
+    [percent] => 71
+    [total_amount] => 3444.83
+    [num_buyers] => 5
+    [description] => 
+				Follicular Unit Transplantation Treatment for £999 at Landmark Hair(£3500 Value)
+				
+After hair, popular things to store on one's head include fedoras, bandanas, and roosting chickens. Banish fowl head problems with today's Groupon: for £999 instead of £3500 get one thousand hairs' worth of follicular unit replacement treatment from Landmark Hair.
+With options such as transplant surgery, regrowth therapy, and replacement, customers can address many needs in Landmark Hair's clinics o
+    [coordinates] => Array
+        (
+            [0] => 51.5142476
+            [1] => -0.13937350000003335
+        )
+
+    [image] => http://static.uk.groupon-content.net/85/88/1307977488885.jpg
+    [title] => 71% Off Follicular Unit Transplantation Treatment at Landmark Hair
+    [link] => http://www.groupon.co.uk/deals/london/landmark-hair/578832?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 16.00
+    [percent] => 60
+    [total_amount] => 40
+    [num_buyers] => 212
+    [description] => 
+				Chocolate Tour of London For Two for £16 With Great British Tours (£40 Value)
+				
+People have been milking chocolate for as long as farmers have been milking cows, dentists have milking teeth, and scientists have been milking galaxies. Milk the capital for its charms instead with today’s Groupon: for £16, heed the cravings of your sweet tooth with a fellow chocolate-muncher and head out on a chocolate tour of the capital with Great British Tours. Leading all sorts of exciting excursi
+    [coordinates] => Array
+        (
+            [0] => 51.5142476
+            [1] => -0.13937350000003335
+        )
+
+    [image] => http://static.uk.groupon-content.net/60/58/1311605485860.jpg
+    [title] => 60%
+Off The Chocolate Tour of London With Great British Tours
+    [link] => http://www.groupon.co.uk/deals/london/GBT/579951?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 89.00
+    [percent] => 55
+    [total_amount] => 197.78
+    [num_buyers] => 156
+    [description] => 
+				Laser Teeth Whitening for £89 at Smile Lounge (£199 Value)
+				While many believe that the nose will grow when telling lies, scientists have proven that porkies  actually make teeth grow, causing the owner to bare fangs. Tell the tooth with today's Groupon: for £89 instead of £199 get a session of laser teeth whitening treatment with the Smile Lounge.
+Like stepping into a comfortable bubble of relaxation, The Smile Lounge have used their various time teleportation techniques to bring 
+    [coordinates] => Array
+        (
+            [0] => 51.4997905
+            [1] => -0.1964147999999568
+        )
+
+    [image] => http://static.uk.groupon-content.net/07/76/1299671567607.jpg
+    [title] => 55% Off Laser Teeth Whitening at Smile Lounge
+    [link] => http://www.groupon.co.uk/deals/london/smile/579103?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 190.00
+    [percent] => 62
+    [total_amount] => 500
+    [num_buyers] => 5
+    [description] => 
+				Audi R8 or Aston Martin Vantage Convertible Rental For The Day (£190)Or Weekend (£495) with Fusion Of London (Value up to £1445)
+				
+The three drawbacks of the passenger seat are not being able to stretch for the steering wheel, lack of proximity to the pedals, and having to relinquish radio station control. Don't be a back seat driver with today's Groupon options from Fusion Of London: 
+•
+ £190 for one day hire of either Audi R8 or Aston Martin Vantage 
+Convertible (£500 Value
+    [coordinates] => Array
+        (
+            [0] => 51.6928104
+            [1] => -0.17966609999996308
+        )
+
+    [image] => http://static.uk.groupon-content.net/59/00/1306426100059.jpg
+    [title] => Up To 66% Off Audi Or Aston Martin Rental
+    [link] => http://www.groupon.co.uk/deals/london/fusion-of-london/580725?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 32.50
+    [percent] => 51
+    [total_amount] => 66.33
+    [num_buyers] => 295
+    [description] => 
+				Two Course Angus Steak or Whole Lobster Dinner For One (£32.50) or Two People (£60) With Sparkling Rosé at the Piano Bar Plus Live Jazz at Boisdale of Bishopsgate
+				
+Before the discovery of fire, humans grilled their food by aggressively asking questions regarding its whereabouts on a Saturday night. Let professionals put eats in the hot seat with today's Groupon: get a glass of sparkling rosé with either a 12oz Angus steak fillet, or a whole lobster and your choice of dessert for £
+    [coordinates] => Array
+        (
+            [0] => 51.5179819
+            [1] => -0.07932189999996808
+        )
+
+    [image] => http://static.uk.groupon-content.net/94/69/1311620316994.jpg
+    [title] => A Steak Or Lobster Dinner With Drinks
+    [link] => http://www.groupon.co.uk/deals/london/boisdale/580563?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 89.00
+    [percent] => 76
+    [total_amount] => 370.83
+    [num_buyers] => 77
+    [description] => 
+				Comprehensive Head to Toe Medical Assessment Plus GP Consultation including Full Blood Profile for £89 at City Walk-in Clinic (£370 Value)
+				
+The hale and hearty folk that dwell in the orchard, famous for their strong throwing arms, know that an apple a day keeps the doctor away. Take cover with a bruised GP and today's Groupon: for £89 instead of £370 get a comprehensive medical assessment at City Walk-In Clinic. 
+Out of the prestigious quarters of Harley Street (and out of range 
+    [coordinates] => Array
+        (
+            [0] => 51.514087
+            [1] => -0.07980280000003859
+        )
+
+    [image] => http://static.uk.groupon-content.net/34/97/1304010269734.jpg
+    [title] => 77%
+Off Comprehensive Medical Assessment
+    [link] => http://www.groupon.co.uk/deals/london/CityWalkinClinic/580769?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 99.00
+    [percent] => 55
+    [total_amount] => 220
+    [num_buyers] => 23
+    [description] => 
+				Overnight Stay For Two With Three Course Meal, MiniAfternoon Tea and Bottle of Fizz for £99 at Best Western Frensham Pond Hotel(Up To £220.80 Value)
+				According to government research, spending time in rural hotels is the inn thing to do. Unwind in an indulgent fashion with today's Groupon: £99 for an overnight stay for two with a three course dinner, mini afternoon tea, bottle of fizz on arrival and full English breakfast at Best Western Frensham Pond Hotel.
+This inviting 15th cent
+    [coordinates] => Array
+        (
+            [0] => 51.1528985
+            [1] => -0.7980141000000458
+        )
+
+    [image] => http://static.uk.groupon-content.net/13/07/1311267190713.jpg
+    [title] => Up to 55% Off Overnight
+Stay For Two With Three Course Meal, Mini Afternoon Tea and More
+    [link] => http://www.groupon.co.uk/deals/london/frensham/578682?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 17.00
+    [percent] => 66
+    [total_amount] => 50
+    [num_buyers] => 86
+    [description] => 
+				Seven Spinning Classes (£13.50) or One Month of Unlimited Spinning Classes and Gym Access (£17) at H2 Bike Run (Up to 70% Off)
+				
+When a woodland gym advertised spin classes to local critters, mass confusion ensued when juvenile arachnids turned up hoping to learn the art of producing fly-catching threads. Blow away the cobwebs with today’s Groupon at H2 Bike Run. Choose from the following options:
+• £13.50 for seven spinning classes (£45.50 Value)
+• £17 for one month of spi
+    [coordinates] => Array
+        (
+            [0] => 51.5136328
+            [1] => -0.13695189999998547
+        )
+
+    [image] => http://static.uk.groupon-content.net/28/22/1311351532228.jpg
+    [title] => Up
+to 70% Off Seven Spinning Classes or One Month of Spinning Classes
+    [link] => http://www.groupon.co.uk/deals/london/H2ClubsLtd/581072?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 999.00
+    [percent] => 91
+    [total_amount] => 11100
+    [num_buyers] => 4
+    [description] => 
+				IPL Treatments for One Year for £999 From Beauty Works Too (Up to £11,250 Value)
+				
+As well as making shoulders more streamlined and arms more aerodynamic, IPL is also handy for disguising peaches as nectarines. Bare fruit with today’s Groupon: £999 instead of up to £11,250 for a year's worth of treatments from Beauty Works Too.
+ 
+Located in the thriving centre of Hornsey, Beauty Works Too offers a bevy of beautifying treatments including dermal fillers, facial peels, manicures, 
+    [coordinates] => Array
+        (
+            [0] => 51.5872283
+            [1] => -0.1338647
+        )
+
+    [image] => http://static.uk.groupon-content.net/89/69/1311355776989.jpg
+    [title] => Up to 91%
+Off One Year of IPL
+    [link] => http://www.groupon.co.uk/deals/london/beautyworkstoo/568959?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre><pre>stdClass Object
+(
+    [id] => 6
+    [url_xml] => http://api.groupon.de/feed/api/v1/deals/oftheday/UK/london
+    [type_provider] => deals
+    [provider] => Groupon
+    [zone] => 0
+    [type_room] => 
+    [city] => London
+    [country] => United Kingdom
+    [amount] => 299.00
+    [percent] => 77
+    [total_amount] => 1300
+    [num_buyers] => 8
+    [description] => 
+				Moroccan Getaway: Three (£299) or Six (£569) Nights for Two With Breakfast, One Dinner andMassage Each atEden Andalou Spa and Resort (Save up to 78%)
+				
+North Africa is known for its voluminous wealth of history, its rich, spicy cuisine, and for having much better weather than the North Pole. Experience the sun, sustenance, and above-Saharan splendour with today's Groupon from Eden Andalou Spa and Resort. Choose from the following options:  
+• £299 for a three night Moroccan get
+    [coordinates] => Array
+        (
+            [0] => 51.5872283
+            [1] => -0.1338647
+        )
+
+    [image] => http://static.uk.groupon-content.net/83/09/1311178570983.jpg
+    [title] => Up to 77% Off Moroccan Escape For Two at the Eden Andalou Spa and Resort
+    [link] => http://www.groupon.co.uk/deals/london/eden-andalou/579844?CID=UK_RSS_217_389_189_22&utm_source=rss_217&utm_medium=rss_389&utm_campaign=rss_189&utm_content=rss_22
+)
+</pre>

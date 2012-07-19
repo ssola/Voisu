@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/web-app/!svn/ver/6/trunk/app/views/frontend/venues
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/web-app/!svn/ver/6/trunk/app/views/frontend/venues/index.php
+END
+new.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/web-app/!svn/ver/6/trunk/app/views/frontend/venues/new.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/web-app/!svn/ver/6/trunk/app/views/frontend/venues/view.php
+END

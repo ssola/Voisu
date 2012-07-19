@@ -1,0 +1,15 @@
+<?php
+$HAANGA_VERSION  = '1.0.4';
+/* Generated from /Users/ssola/Documents/workspace/klubme-webapp/app/views/panel/dashboard/index.php */
+function haanga_091a592a72175510b8ee7a4961e0d8016c886b3a($vars, $return=FALSE, $blocks=array())
+{
+    global $globals, $facebook_logout_url, $_config, $_load, $lng, $session, $current_user;
+    extract($vars);
+    if ($return == TRUE) {
+        ob_start();
+    }
+    echo Haanga::Load('general/header.php', $vars, TRUE, $blocks).' <div class="wrapper"> '.Haanga::Load('general/top.php', $vars, TRUE, $blocks).' <!-- START MAIN --> <div id="main"> '.Haanga::Load('general/sidebar.php', $vars, TRUE, $blocks).' <!-- START PAGE --> <div id="page"> <!-- start page title --> <div class="page-title"> <div class="in"> <div class="titlebar"> <h2>'.__('Centro de mando').'</h2> <p>'.__('Empieza a ganar nuevos clientes con Klubme').'</p></div> </div> </div> <!-- START CONTENT --> <div class="content"> <!-- start simple tips --> <div class="simple-tips"> <h2>'.__('¿Tú primera visita?').'</h2> <ul> <li>'.__('1. Añade un nuevo local').'</li> <li>'.__('2. Crea un nuevo evento para tú primer local').'</li> <li>'.__('3. Añade entradas a tú evento').'</li> <li>'.__('4. Empieza a vender!!').'</li> </ul> <a href="#" class="close tips" title="'.__('Cerrar ventana de ayuda').'"><li>'.__('cerrar').'</li></a> </div> <div class="grid740"> <a href="/panel/venues/add" class="dashbutton"> <img src="/static/img/icons/dashbutton/write.png" width="44" height="32" alt="icon" /> <b>'.__('Añadir Local').'</b> '.__('Añadir todos los locales que desee administrar').'</a> <a href="#" class="dashbutton"> <img src="/static/img/icons/dashbutton/calendar.png" width="44" height="32" alt="icon" /> <b>'.__('Nuevo Evento').'</b> '.__('Añada un nuevo evento!').'</a> <a href="#" class="dashbutton"> <img src="/static/img/icons/dashbutton/money.png" width="44" height="32" alt="icon" /> <b>'.__('Estadísticas').'</b> '.__('Vea como va su negocio').'</a> <a href="#" class="dashbutton"> <img src="/static/img/icons/dashbutton/users.png" width="44" height="32" alt="icon" /> <b>'.__('Clientes').'</b> '.__('Conozca a sus clientes').'</a> <a href="#" class="dashbutton"> <img src="/static/img/icons/dashbutton/settings.png" width="44" height="32" alt="icon" /> <b>'.__('Terminales').'</b> '.__('Configure sus terminales').'</a> <a href="#" class="dashbutton"> <img src="/static/img/icons/dashbutton/creadit-card.png" width="44" height="32" alt="icon" /> <b>'.__('Sus pagos').'</b> '.__('Datos sobre sus transacciones').'</a> <a href="#" class="dashbutton"> <img src="/static/img/icons/dashbutton/help.png" width="44" height="32" alt="icon" /> <b>'.__('Soporte').'</b> '.__('¿Tiene dudas?').'</a> </div> </div> <!-- END CONTENT --> </div> <!-- END PAGE --> <div class="clear"></div> </div> <!-- END MAIN --> '.Haanga::Load('general/footer.php', $vars, TRUE, $blocks);
+    if ($return == TRUE) {
+        return ob_get_clean();
+    }
+}

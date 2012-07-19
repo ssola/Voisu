@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/web-app/!svn/ver/2/trunk/libs/scrappers/filters
+END
+analyze_room_filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/web-app/!svn/ver/2/trunk/libs/scrappers/filters/analyze_room_filter.php
+END
+filters_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/web-app/!svn/ver/2/trunk/libs/scrappers/filters/filters_helper.php
+END
+filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/web-app/!svn/ver/2/trunk/libs/scrappers/filters/filters.php
+END
+boroughs_filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/web-app/!svn/ver/2/trunk/libs/scrappers/filters/boroughs_filter.php
+END

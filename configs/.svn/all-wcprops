@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/web-app/!svn/ver/2/trunk/configs
+END
+production_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/web-app/!svn/ver/2/trunk/configs/production_config.php
+END
+local_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/web-app/!svn/ver/2/trunk/configs/local_config.php
+END
+translations.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/web-app/!svn/ver/2/trunk/configs/translations.php
+END

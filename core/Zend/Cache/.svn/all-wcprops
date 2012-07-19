@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/web-app/!svn/ver/2/trunk/core/Zend/Cache
+END
+Manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Manager.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Exception.php
+END
+Backend.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Backend.php
+END
+Core.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/web-app/!svn/ver/2/trunk/core/Zend/Cache/Core.php
+END

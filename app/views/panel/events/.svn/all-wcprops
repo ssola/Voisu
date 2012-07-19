@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/web-app/!svn/ver/2/trunk/app/views/panel/events
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/web-app/!svn/ver/2/trunk/app/views/panel/events/edit.php
+END
+ajax_events.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/2/trunk/app/views/panel/events/ajax_events.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/web-app/!svn/ver/2/trunk/app/views/panel/events/index.php
+END
+add.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/web-app/!svn/ver/2/trunk/app/views/panel/events/add.php
+END
+conditions.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/2/trunk/app/views/panel/events/conditions.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/web-app/!svn/ver/2/trunk/app/views/panel/events/view.php
+END
+photos.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/web-app/!svn/ver/2/trunk/app/views/panel/events/photos.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/web-app/!svn/ver/6/trunk/app/views/frontend/support
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/web-app/!svn/ver/6/trunk/app/views/frontend/support/index.php
+END
+sidebar.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/6/trunk/app/views/frontend/support/sidebar.php
+END
+category.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/web-app/!svn/ver/6/trunk/app/views/frontend/support/category.php
+END
+answer.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/6/trunk/app/views/frontend/support/answer.php
+END

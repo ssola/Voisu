@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/web-app/!svn/ver/2/trunk/core/oAuth/twitter
+END
+twitter_base.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/web-app/!svn/ver/2/trunk/core/oAuth/twitter/twitter_base.php
+END
+OAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/web-app/!svn/ver/2/trunk/core/oAuth/twitter/OAuth.php
+END

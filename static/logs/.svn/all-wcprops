@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/web-app/!svn/ver/2/trunk/static/logs
+END
+Facebook
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/web-app/!svn/ver/2/trunk/static/logs/Facebook
+END
+Searcher
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/web-app/!svn/ver/2/trunk/static/logs/Searcher
+END
+errors
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/web-app/!svn/ver/2/trunk/static/logs/errors
+END
+searches
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/web-app/!svn/ver/2/trunk/static/logs/searches
+END

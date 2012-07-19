@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/web-app/!svn/ver/2/trunk/static/img/icons/error
+END
+cross.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/web-app/!svn/ver/2/trunk/static/img/icons/error/cross.png
+END
+error.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/web-app/!svn/ver/2/trunk/static/img/icons/error/error.png
+END
+accept.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/web-app/!svn/ver/2/trunk/static/img/icons/error/accept.png
+END
+info-blue-big.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/web-app/!svn/ver/2/trunk/static/img/icons/error/info-blue-big.png
+END
+error-red-big.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/web-app/!svn/ver/2/trunk/static/img/icons/error/error-red-big.png
+END
+success-green-big.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/web-app/!svn/ver/2/trunk/static/img/icons/error/success-green-big.png
+END
+help.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/web-app/!svn/ver/2/trunk/static/img/icons/error/help.png
+END

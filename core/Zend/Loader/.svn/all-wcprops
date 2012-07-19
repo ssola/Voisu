@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/web-app/!svn/ver/2/trunk/core/Zend/Loader
+END
+PluginLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/web-app/!svn/ver/2/trunk/core/Zend/Loader/PluginLoader.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/web-app/!svn/ver/2/trunk/core/Zend/Loader/Exception.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/web-app/!svn/ver/2/trunk/core/Zend/Loader/Autoloader.php
+END

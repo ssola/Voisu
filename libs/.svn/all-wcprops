@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/web-app/!svn/ver/2/trunk/libs
+END
+ResultsHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/2/trunk/libs/ResultsHandler.php
+END
+base_facebook.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/web-app/!svn/ver/2/trunk/libs/base_facebook.php
+END
+boroughs_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/2/trunk/libs/boroughs_stats.php
+END
+log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/web-app/!svn/ver/2/trunk/libs/log.txt
+END
+facebook.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/web-app/!svn/ver/2/trunk/libs/facebook.php
+END
+news_scrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/web-app/!svn/ver/2/trunk/libs/news_scrapper.php
+END
+mongo_wrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/web-app/!svn/ver/2/trunk/libs/mongo_wrapper.php
+END
+calculate_user_clusters.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/web-app/!svn/ver/2/trunk/libs/calculate_user_clusters.php
+END
+scrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/web-app/!svn/ver/2/trunk/libs/scrapper.php
+END
+saver.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/web-app/!svn/ver/2/trunk/libs/saver.php
+END
+memcache_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/2/trunk/libs/memcache_stats.php
+END
+CommandChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/web-app/!svn/ver/2/trunk/libs/CommandChain.php
+END
+lastfm.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/web-app/!svn/ver/2/trunk/libs/lastfm.php
+END
+fb_ca_chain_bundle.crt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/web-app/!svn/ver/2/trunk/libs/fb_ca_chain_bundle.crt
+END
+deals_scrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/2/trunk/libs/deals_scrapper.php
+END
+users_notifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/web-app/!svn/ver/2/trunk/libs/users_notifications.php
+END
+compress.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/web-app/!svn/ver/2/trunk/libs/compress.php
+END
+searcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/web-app/!svn/ver/2/trunk/libs/searcher.php
+END
+indexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/web-app/!svn/ver/2/trunk/libs/indexer.php
+END
+rooms_scrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/2/trunk/libs/rooms_scrapper.php
+END

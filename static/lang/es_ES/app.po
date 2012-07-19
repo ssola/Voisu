@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: peroya\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-14 20:11+0100\n"
+"PO-Revision-Date: 2012-04-15 18:46+0100\n"
+"Last-Translator: Sergio <ssola@lavinia.tc>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/ssola/documents/workspace/peroya/trunk\n"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/admin_index_controller.php:44
+msgid "Hausu.co.uk - The best way to find your new home in London"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/admin_index_controller.php:47
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/business_controller.php:12
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/index_controller.php:17
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/payments_controller.php:33
+msgid "Home"
+msgstr "Inicio"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/admin_index_controller.php:48
+msgid "Welcome, do you know about Hausu?"
+msgstr "Bienvenido, conoces PeroYa?"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/admin_users_controller.php:24
+msgid "Admin > Users"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/admin_users_controller.php:79
+#, php-format
+msgid "We found %d items in this cluster"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/business_controller.php:10
+msgid "Haz negocios con peroya - peroya.es"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/business_controller.php:13
+msgid "Negocios"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/index_controller.php:18
+msgid "Welcome, do you know about Peroya?"
+msgstr "Bienvenido, conoces algo de PeroYa?"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:20
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:31
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:55
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:132
+msgid "Acceso"
+msgstr "das"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:30
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:54
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:131
+msgid "Inicio"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:56
+msgid "Invite friends"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:62
+msgid "Recommend Hausu to your friends - Hausu.co.uk"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:73
+msgid "Discover Hausu.co.uk"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:74
+msgid "http://www.hausu.co.uk"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:75
+msgid "Discover the easiest way to find your new home in UK, look for rooms in London, Liverpool, Manchester, etc..."
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/login_controller.php:133
+msgid "Recuperar contraseña"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/payments_controller.php:31
+msgid "Finalice su pago"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/payments_controller.php:34
+msgid "Payment"
+msgstr "Pago"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/payments_controller.php:35
+msgid "Product"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/support_controller.php:21
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/support_controller.php:48
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/support_controller.php:73
+msgid "Support"
+msgstr "Soporte"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/support_controller.php:44
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/support_controller.php:69
+msgid "Hausu Support Center ->"
+msgstr "PeroYa Support Center ->"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/venues_controller.php:14
+msgid "Gestione sus locales - peroya.es"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/app/controllers/venues_controller.php:18
+msgid "Venues"
+msgstr "Sus locales"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/file_cache.php:28
+msgid "Ops... stream to save is empty!"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/file_cache.php:85
+msgid "Please set a cache name, please!"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/video_channel.php:39
+msgid "Please set some artists"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/helpers/utils_helper.php:28
+msgid "Público"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/helpers/utils_helper.php:29
+msgid "Privado"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/helpers/utils_helper.php:30
+msgid "Cerrado"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/helpers/utils_helper.php:38
+msgid "Double Room"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/helpers/utils_helper.php:39
+msgid "Single Room"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/helpers/utils_helper.php:40
+msgid "Group Room"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/core/helpers/utils_helper.php:617
+msgid "Información del concierto"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:13
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:15
+msgid "Are you a Business?"
+msgstr "¿Tiene un negocio?"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:17
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:19
+msgid "You don´t have an accout yet?"
+msgstr "¿Todavía no tienes una cuenta?"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:19
+msgid "Register or Login"
+msgstr "Registro o Acceso"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:21
+msgid "version"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:21
+msgid "City / Language / Currency"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:21
+msgid "Ofertas"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:21
+msgid "Empresas"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:23
+msgid "Tus locales"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:23
+msgid "Tus ofertas"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e3c07d3bc40c17dfd832bee26cc39adc9528d3a.php:23
+msgid "Preferencias"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Localización"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Seleccione qué versión de <strong>voisu</strong> quiere navegar, actualmente existen las siguientes:"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "España"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Reino Unido"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Alemania"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Suecia"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Noruega"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Italia"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Compartir"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/2e48f5fbf53e5dba59dbc35140e0a2bc7bd5d4a2.php:11
+msgid "Comparte con tus amigos en:"
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/37ed104910ae203c57f83c2914d350c0939f72db.php:11
+msgid "Add all your venues. Each offer is related to your venues. So is very important to add it correctly."
+msgstr "Añada los locales que tenga. Recuerda que cada oferta está relacionada con sus locales, por lo tanto es muy importante que los añada correctamente."
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/37ed104910ae203c57f83c2914d350c0939f72db.php:11
+msgid "Remember that you must offer exactly your address, it is very important because our system can guide people to your venues efficiently."
+msgstr "Tómese su tiempo en darnos correctamente su dirección, es imprescindible para nosotros para ubicar correctamente su local."
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/37ed104910ae203c57f83c2914d350c0939f72db.php:11
+msgid "Add your first venue"
+msgstr "Añada su primer local"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/3f24edc9f747b8b850b6efa55ad6fdf19c5a4de1.php:11
+msgid "City"
+msgstr "Ciudad"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/3f24edc9f747b8b850b6efa55ad6fdf19c5a4de1.php:11
+msgid "Language"
+msgstr "Idioma"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/3f24edc9f747b8b850b6efa55ad6fdf19c5a4de1.php:11
+msgid "Currency"
+msgstr "Moneda"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/3f24edc9f747b8b850b6efa55ad6fdf19c5a4de1.php:17
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/3f24edc9f747b8b850b6efa55ad6fdf19c5a4de1.php:31
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/3f24edc9f747b8b850b6efa55ad6fdf19c5a4de1.php:51
+msgid "selected"
+msgstr "seleccionado"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/3f24edc9f747b8b850b6efa55ad6fdf19c5a4de1.php:25
+msgid "London the biggest city in UK. You can find here thousand of apartments, rooms and flats available to ret for you"
+msgstr "Elige la ciudad donde quieres ver las ofertas disponibles. Cada día vamos ampliando PeroYa. Ayúdanos a mejorar utilizando y recomendando PeroYa a tus amigos."
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/3f24edc9f747b8b850b6efa55ad6fdf19c5a4de1.php:37
+msgid "coming soon!"
+msgstr "muy pronto!"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/401161f7d9a5eaba2494a9b80e944a23b81b7bd4.php:11
+msgid "Support Center"
+msgstr "Centro de Soporte"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/401161f7d9a5eaba2494a9b80e944a23b81b7bd4.php:11
+msgid "Are you looking for help? This is your place. You can find here a lot of informationa how Hausu works, security topics and more. Please, read all the security topics for your security."
+msgstr ""
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/6fff9c9060f82abd3786499751db1276f232a84b.php:11
+msgid "Categories"
+msgstr "Categorías"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/7c94b74fccaee5ae73b285d4594be207cb4964ad.php:11
+msgid "Localization"
+msgstr "Localización"
+
+#: /Users/ssola/documents/workspace/peroya/trunk/static/cache/Haanga/dcffe3ec40245e829fd93185e6d545508c0ca263.php:19
+msgid "We are sorry but we do not find artiles in this category"
+msgstr "Lo sentimos, pero no hemos encontrado artículos en esta categoría"
+
+#~ msgid "Mis eventos"
+#~ msgstr "My events"
+
+#~ msgid "hola"
+#~ msgstr "aaaaaaaaaaaa"
+
+#~ msgid "Acceda a su panel!"
+#~ msgstr "Access to your panel"
+
+#~ msgid "El usuario o contraseña no son correctos."
+#~ msgstr "User and passwor doesn't match"
+
+#~ msgid "This is to make tests!"
+#~ msgstr "Test traducido en ingles"

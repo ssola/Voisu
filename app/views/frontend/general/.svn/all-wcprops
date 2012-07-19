@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/web-app/!svn/ver/6/trunk/app/views/frontend/general
+END
+top_land.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/web-app/!svn/ver/6/trunk/app/views/frontend/general/top_land.php
+END
+top.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/web-app/!svn/ver/6/trunk/app/views/frontend/general/top.php
+END
+menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/web-app/!svn/ver/6/trunk/app/views/frontend/general/menu.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/6/trunk/app/views/frontend/general/header.php
+END
+options.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/6/trunk/app/views/frontend/general/options.php
+END
+footer_land.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/web-app/!svn/ver/6/trunk/app/views/frontend/general/footer_land.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/web-app/!svn/ver/6/trunk/app/views/frontend/general/footer.php
+END

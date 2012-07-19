@@ -1,0 +1,34 @@
+# --------------------------------------------------------
+# Host:                         127.0.0.1
+# Database:                     framework
+# Server version:               5.1.36-community-log
+# Server OS:                    Win32
+# HeidiSQL version:             5.0.0.3272
+# Date/time:                    2011-02-04 16:30:24
+# --------------------------------------------------------
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET NAMES utf8 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+
+# Dumping structure for table framework.events
+CREATE TABLE IF NOT EXISTS `events` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `title` varchar(120) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `description` text COLLATE utf8_unicode_ci,
+  `event_date` int(10) DEFAULT NULL,
+  `tags` varchar(256) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `user_id` int(10) DEFAULT NULL,
+  `created` int(10) DEFAULT NULL,
+  `event_status` int(10) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+# Dumping data for table framework.events: 0 rows
+/*!40000 ALTER TABLE `events` DISABLE KEYS */;
+INSERT INTO `events` (`id`, `title`, `description`, `event_date`, `tags`, `user_id`, `created`, `event_status`) VALUES (1, 'partidillo futbol', 'Partidillo de futbol entre los coleguitas.', 1301747202, 'futbol, partido, amigos', 1, NULL, 1), (2, 'partidaco', 'partido de futbol el domingo', 1301749211, 'futbol', 1, 1296824411, 1);
+/*!40000 ALTER TABLE `events` ENABLE KEYS */;
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

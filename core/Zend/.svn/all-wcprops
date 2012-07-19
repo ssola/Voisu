@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/web-app/!svn/ver/2/trunk/core/Zend
+END
+Mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/web-app/!svn/ver/2/trunk/core/Zend/Mime.php
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/web-app/!svn/ver/2/trunk/core/Zend/Currency.php
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/2/trunk/core/Zend/Translate.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/2/trunk/core/Zend/Exception.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/web-app/!svn/ver/2/trunk/core/Zend/Locale.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/web-app/!svn/ver/2/trunk/core/Zend/Mail.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/web-app/!svn/ver/2/trunk/core/Zend/Cache.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/web-app/!svn/ver/2/trunk/core/Zend/Session.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/web-app/!svn/ver/2/trunk/core/Zend/Loader.php
+END

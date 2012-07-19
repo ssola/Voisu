@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/web-app/!svn/ver/6/trunk/app/views/frontend/ajax
+END
+get_events.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/web-app/!svn/ver/6/trunk/app/views/frontend/ajax/get_events.php
+END
